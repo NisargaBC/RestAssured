@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T20:21:57 IST" name="Default suite" finished-at="2023-12-05T20:22:10 IST" duration-ms="12550">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T20:21:57 IST" name="Default test" finished-at="2023-12-05T20:22:10 IST" duration-ms="12550">
+      <class name="API_restAssured.ReadDataFromExcel">
+        <test-method signature="dataForPostFromExcel(java.lang.String,java.lang.String)[pri:0, instance:API_restAssured.ReadDataFromExcel@3835c46]" started-at="2023-12-05T20:22:02 IST" name="dataForPostFromExcel" data-provider="getData" finished-at="2023-12-05T20:22:09 IST" duration-ms="7201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sandesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Team Lead]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataForPostFromExcel -->
+        <test-method signature="dataForPostFromExcel(java.lang.String,java.lang.String)[pri:0, instance:API_restAssured.ReadDataFromExcel@3835c46]" started-at="2023-12-05T20:22:09 IST" name="dataForPostFromExcel" data-provider="getData" finished-at="2023-12-05T20:22:09 IST" duration-ms="586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nisarga]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA tester]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataForPostFromExcel -->
+        <test-method signature="dataForPostFromExcel(java.lang.String,java.lang.String)[pri:0, instance:API_restAssured.ReadDataFromExcel@3835c46]" started-at="2023-12-05T20:22:09 IST" name="dataForPostFromExcel" data-provider="getData" finished-at="2023-12-05T20:22:10 IST" duration-ms="513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nithin ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[developer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataForPostFromExcel -->
+      </class> <!-- API_restAssured.ReadDataFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
